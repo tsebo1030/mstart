@@ -1,0 +1,10 @@
+{
+  "singleQuote": false,
+  "jsxSingleQuote": true,
+  "semi": false,
+  "plugins": [
+    "@softonus/prettier-plugins-whitespace-remover",
+    "@softonus/prettier-duplicate-remover"
+  ],
+  "trailingComma": "none"
+}
